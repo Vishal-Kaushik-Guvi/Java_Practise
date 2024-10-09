@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Gui"/>
+	<classpathentry kind="src" path="logical questions"/>
+	<classpathentry kind="src" path="Allogrithims"/>
+	<classpathentry kind="src" path="DataStructure"/>
+	<classpathentry kind="src" path="Patterns"/>
+	<classpathentry kind="src" path="DyanamicPrograms"/>
+	<classpathentry kind="src" path="2DARRAY"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
