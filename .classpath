@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Patterns"/>
 	<classpathentry kind="src" path="DyanamicPrograms"/>
 	<classpathentry kind="src" path="2DARRAY"/>
+	<classpathentry kind="src" path="JavaFile"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
